@@ -22,6 +22,11 @@ ul{
 	padding: 0;
 }
 
+hr{
+	width: 80%;
+	border: 1.4px solid #1600d0;
+}
+
 /*HEADER*/
 
 header{
@@ -207,5 +212,8 @@ footer{
 	#showcase{
 		min-height: 350px;
 		background: url('../images/ocean2.jpg') no-repeat 0 -75px;
+	}
+	#article p{
+		width: 100%;
 	}
 }
